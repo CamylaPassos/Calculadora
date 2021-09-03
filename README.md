@@ -2,4 +2,3 @@
 WorkShop - Reprogramar
 Link para a calculadora 
 https://calculadora-workshop-camyla-passos.netlify.app/desafio.html
-https://calculadora-workshop-camyla-passos.netlify.app
